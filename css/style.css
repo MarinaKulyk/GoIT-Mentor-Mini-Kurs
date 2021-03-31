@@ -310,7 +310,6 @@ body {
   margin-bottom: 30px;
 }
 
-
 /* FRONT-PAGE */
 .front-page {
   box-sizing: border-box;
@@ -679,6 +678,9 @@ body {
   text-align: center;
   color: var(--c-grey-blue);
   margin-bottom: 30px;
+}
+.calculator-form-input-error {
+  border: 1px solid red;
 }
 
 /* CALCULATOR FORM SECTION */
